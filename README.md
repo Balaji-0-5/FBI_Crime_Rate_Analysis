@@ -4,14 +4,14 @@
 This dashboard is designed to help stakeholders get a clear picture of crime trends using interactive visualizations. It allows users to explore crime incidents based on different filters like time, location, and type of crime. The goal is to make crime data more accessible and actionable for law enforcement, policymakers, and the public.
 
 ## Data Source
-- The dataset is sourced from train.xlsx.
+- The dataset is sourced from FBI crime reports.
 - It contains details like Incident Type, Year, Month, Day, Hour, Hundred Block, and Neighbourhood.
 
 ## How to Use the Dashboard
-The dashboard is fully interactive, allowing users to drill down into data, hover over visuals for more insights, and apply filters to get specific information. Below is a breakdown of each component and how to use it.
+The interactive dashboard allows users to drill down into data, hover over visuals for more insights, and apply filters to get specific information. Below is a breakdown of each component and how to use it.
 
 ### 1. Total Incidents Display
-- This large yellow box in the center shows the total number of recorded crime incidents (474.565K in this case).
+- This large yellow box in the center shows the total number of recorded crime incidents (474.565K).
 - The number updates based on the filters applied, giving an instant view of crime volume under different conditions.
 
 ### 2. Filters Panel
