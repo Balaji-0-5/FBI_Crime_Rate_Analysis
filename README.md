@@ -6,6 +6,9 @@ This dashboard is designed to help stakeholders get a clear picture of crime tre
 ## Data Source
 - The dataset is sourced from FBI crime reports.
 - It contains details like Incident Type, Year, Month, Day, Hour, Hundred Block, and Neighbourhood.
+- To view the Dashboard click [here](https://app.powerbi.com/groups/me/dashboards/10586d80-4d12-49e1-bd92-d5854eb875f5?ctid=25ce0261-bbd6-49cd-a1e2-54260886d159&pbi_source=linkShare)
+
+  ![FBI Crime Analysis](https://github.com/Balaji-0-5/FBI_Crime_Rate_Analysis/blob/main/FBI_Crime_Analysis.png)
 
 ## How to Use the Dashboard
 The interactive dashboard allows users to drill down into data, hover over visuals for more insights, and apply filters to get specific information. Below is a breakdown of each component and how to use it.
